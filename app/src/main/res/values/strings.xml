@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodUser</string>
+    <string name="type_message">Nhập tin nhắn!</string>
+    <string name="online">Online</string>
+    <string name="not_receive_info">Not_receive_info</string>
+
+</resources>
